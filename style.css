@@ -1,4 +1,59 @@
 body{
 font-family: 'Poppins', sans-serif;
+}
 
+span{
+color: orange;
+}
+
+.top-banner{
+display: flex;
+width: 80%;
+padding-left: 5%;
+padding-top: 3%;
+}
+
+.top-banner img{
+width: 100%;
+
+}
+
+.link-btn{
+background-image: linear-gradient(orange, tomato);
+padding: 15px 30px;
+border-radius: 10px;
+color: snow;
+text-decoration: none;
+}
+
+.about-me{
+display: flex;
+background-image: url(images/7.png);
+background-repeat: no-repeat;
+}
+
+.about-me img{
+width: 50%;
+}
+
+.My-Recipies{
+display: flex;
+width: 90%;
+padding-top: 30px;
+padding-bottom: 30px;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+#food{
+width: 25%;
+}
+
+footer{
+text-align: center;
+background: #000;
+color: snow;
+padding-bottom: 5px;
+padding-top: 5px;
+font-size: 20px;
 }
