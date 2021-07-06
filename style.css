@@ -26,6 +26,11 @@ text-decoration: none;
 text-decoration: none;
 }
 
+h1{
+font-weight: 900;
+font-size: 2em;
+}
+
 span{
 color: orange;
 }
@@ -34,7 +39,8 @@ color: orange;
 display: flex;
 width: 80%;
 padding-left: 5%;
-padding-top: 3%;
+padding-top: 1%;
+padding-bottom: 50px;
 }
 
 .top-banner p{
