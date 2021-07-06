@@ -2,6 +2,31 @@ body{
 font-family: 'Poppins', sans-serif;
 }
 
+nav{
+border-bottom: 2px solid rgb(75, 10, 226);
+padding-left: 50px;
+
+}
+
+.nav-bar ol {
+list-style-type: none;
+padding-left: 20px;
+}
+
+.list{
+display: inline-block;
+font-size: 15px;
+font-weight: bold;
+padding: 5px 20px;
+border-radius: 5px;
+background-color: paleturquoise;
+text-decoration: none;
+}
+
+#meno{
+text-decoration: none;
+}
+
 span{
 color: orange;
 }
